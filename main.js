@@ -145,3 +145,57 @@
 //     console.log(arr)
 // }
 // getInitialOdds(10)
+
+
+
+
+
+
+
+// 8-misol
+
+// let arr = [2,7,11,15]
+// for (let i = 0; i < arr.length; i++) {
+//     for (let j = i+1; j < arr.length; j++) {
+//         if (item[i]+item[j]=== 9) {
+//             console.log(arr[i],arr[j]);
+//         }
+//     }
+// }
+
+
+
+
+
+
+
+
+
+// 9-misol   
+
+// let arr = [1, 3, 2, 2, 3 ]
+// let new_arr = []
+// for(let i = 0; i < arr.length; i++){
+//     if(!new_arr.includes(arr[i]))
+//     new_arr.push(arr[i])
+// }
+// console.log(new_arr);
+
+
+
+// // 10-masala
+
+// function getLevel(n) {
+//         let result = Math.pow(2,n)
+//         let arr = []
+//         for(let i = 0;i <= result; i++){
+//             for(let j = 1; j <= n; j++){
+//                 if(Math.pow(2,j)==i){
+//                     arr.push(i)
+//                 }
+    
+//             }
+//         }
+//         console.log(arr);
+//     }
+//     getLevel(5)
